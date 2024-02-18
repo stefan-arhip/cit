@@ -1,0 +1,3 @@
+d:
+del *.dcu
+del *.~*

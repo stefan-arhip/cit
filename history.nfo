@@ -1,0 +1,24 @@
+	new: posibilitate de selectare a partitiilor monitorizate
+    new: fereastra de info
+options: salvarea/incarcarea setarilor
+    new: editarea meniului personalizat direct din aplicatie
+	new: sincronizarea automata a orei la un anumit interval (setat din Optiuni)
+ change: fereastra "Network Settings"
+   test: verificare pe laptop cu bateria daca afiseaza corect capacitatea bateriei
+    bug: popup menu activ si dupa click dreapta in icon-ul din Tray
+
+
+
+
+
+
+
+
+
+
+       new: posibilitate de setare pe "Mute" a volumului (eventual prin dublu click pe eticheta "Volume xx%")
+   options: modificarea ratei de download/upload din biti in Bytes
+       bug: blocare la introducerea/scoaterea unui CD 
+       new: setare alarma dupa un anumit timp trecut (cu repetare)	   
+	new: toate comenzile din Shutdown cu confirmare si autoraspuns dupa 30 secunde (modificabil si in fereastra), eventual minimizare (setat din Optiuni)	   
+   test: verificare in Virtual Box si Remotely(removed)	
